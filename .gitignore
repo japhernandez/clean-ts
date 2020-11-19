@@ -118,3 +118,5 @@ dist
 ./dist
 .idea/*
 .idea/workspace.xml
+
+./src/applications/config/env.ts
