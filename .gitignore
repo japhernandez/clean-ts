@@ -116,3 +116,5 @@ dist
 .pnp.*
 
 ./dist
+.idea/*
+.idea/workspace.xml
